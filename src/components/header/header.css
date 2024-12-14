@@ -1,0 +1,45 @@
+header {
+    /* margin-top: 0%; */
+    text-align: center;
+    width: 100vw;
+    height: 20vh;
+ /* background-color: aquamarine; */
+
+}
+/* .header{
+    /* background-color: rgba(0, 0, 0, 0.392); */
+/* } */ 
+
+.logIn {
+    text-align: center;
+    /* direction: ltr; */
+}
+
+a {
+    color: #000000;
+    margin-left: 1%;
+    margin-right: 1%;
+    font-size: large;
+}
+
+a:hover {
+    color: black
+}
+
+nav {
+    text-align: center;
+}
+
+.logo {
+    width: 10vw;
+    height: 10vh;
+    margin-left: 0%;
+    /* background-color: aqua; */
+}
+
+img {
+    background-color: transparent;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}

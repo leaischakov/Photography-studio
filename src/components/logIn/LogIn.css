@@ -1,0 +1,26 @@
+.logIn
+{
+    width: 1000px;
+    height: 200px;
+    /* border-color: pink; */
+    margin-top: 5%;
+    margin-left: 15%;
+    
+}
+.logInTextField {
+    /* margin-top: 5%; */
+    width: 16vw;
+    height: 15vh;
+
+    /* width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap; */
+    /* Allow images to wrap to the next line if necessary */
+    /* justify-content: space-around; */
+    /* Distribute space around images */
+}
+
+/* #outlined-basic {
+    /* margin-top: 40%; */
+/* }  */
